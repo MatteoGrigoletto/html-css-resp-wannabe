@@ -132,7 +132,6 @@ img {
 
     .container{
         width: 60%;
-        max-width: 1140px;
         margin: auto;
     }
  }
@@ -152,5 +151,4 @@ img {
     body{
         background-color: black;  
     }
-   
 }
