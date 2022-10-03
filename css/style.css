@@ -148,7 +148,17 @@ img {
     main .container .col{
         width: 100%;
     }
-    body{
+    .why-us{
         background-color: black;  
     }
+    .steps, .why-us{
+        margin: 0;
+    }
+    .why-us{
+        padding-top: 3rem;
+    }
+    .why-us, .lessons{
+        padding-bottom: 3rem;
+    }
+
 }
